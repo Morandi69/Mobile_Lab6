@@ -63,6 +63,4 @@
 
 ## [Ссылка на профиль Codewars](https://www.codewars.com/users/NoToxic)
 
-![](codewars1.png)
-![](codewars2.png)
-![](codewars3.png)
+![](codewars.png)
